@@ -1,0 +1,4 @@
+﻿  KnapSack.cpp
+c:\users\alex\music\projects\c++\knapsack\knapsack\knapsack.cpp(94): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : C:\Users\Alex\Music\Projects\C++\KnapSack\Debug\KnapSack.exe not found or not built by the last incremental link; performing full link
+  KnapSack.vcxproj -> C:\Users\Alex\Music\Projects\C++\KnapSack\Debug\KnapSack.exe
